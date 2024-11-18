@@ -1,0 +1,5 @@
+package com.example.auctionmanagement.service;
+
+public class AuctionService {
+
+}

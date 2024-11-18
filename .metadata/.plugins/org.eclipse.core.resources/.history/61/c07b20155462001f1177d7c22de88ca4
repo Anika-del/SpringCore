@@ -1,0 +1,5 @@
+package com.example.auctionmanagement.model;
+
+public class Auction {
+
+}

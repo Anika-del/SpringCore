@@ -1,0 +1,5 @@
+package com.example.auctionmanagement.repository;
+
+public class AuctionRepository {
+
+}

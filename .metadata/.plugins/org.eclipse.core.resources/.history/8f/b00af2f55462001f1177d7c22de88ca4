@@ -1,0 +1,11 @@
+# User Management and Auction Management Microservices
+
+## User Management Microservice
+
+### Endpoints
+- `POST /users/register`: Register a new user.
+- `POST /users/login`: Login a user.
+
+### Configuration
+- Database: MySQL
+- Spring Boot, Spring Data JPA, Spring Security

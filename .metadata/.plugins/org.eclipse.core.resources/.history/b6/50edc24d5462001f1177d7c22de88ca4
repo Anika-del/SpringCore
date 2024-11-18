@@ -1,0 +1,5 @@
+package com.example.auctionmanagement.controller;
+
+public class AuctionController {
+
+}
